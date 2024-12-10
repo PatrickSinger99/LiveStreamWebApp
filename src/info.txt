@@ -1,0 +1,2 @@
+This folder contains code for all lambda functions, the code written for the raspberry pi, as well as the complete react app code.
+The main file of the react app is src/App.js
